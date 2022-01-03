@@ -6,3 +6,6 @@ Use scikit-learn library to implement Multiple linear regression. We again use t
 
 # Polynomial Regression
 Using Polynomial regressions to solve problems through transferring the necessary feature sets. 
+
+# Non-linear Regression
+Fit a non-linear model to the data points corresponding to China's GDP from 1960 to 2014
