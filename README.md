@@ -4,3 +4,5 @@ Use scikit-learn library to implement Simple linear regression. We download a da
 # Multiple Linear-Regression
 Use scikit-learn library to implement Multiple linear regression. We again use the Carbon dioxide emission dataset to build a model, Evaluate the model, and finally use model to predict unknown value
 
+# Polynomial Regression
+Using Polynomial regressions to solve problems through transferring the necessary feature sets. 
